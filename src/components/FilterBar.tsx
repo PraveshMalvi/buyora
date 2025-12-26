@@ -25,7 +25,7 @@ const FilterBar: React.FC<Props> = ({
   toggleShowFavorites,
 }) => {
   return (
-    <div className="sticky top-14 z-20 bg-gray-100 p-2 md:p-6 mb-6 rounded-bl-lg rounded-br-lg shadow-sm">
+    <div className="sticky top-14 z-20 bg-gray-100 p-2 md:p-6 mb-6 rounded-bl-sm rounded-br-sm shadow-sm">
       <div className="max-w-7xl mx-auto grid grid-cols-2 md:grid-cols-4 md:gap-4 gap-2 items-center">
         {/* Category Filter */}
         <div className="flex flex-col md:gap-2 gap-1">
@@ -35,7 +35,7 @@ const FilterBar: React.FC<Props> = ({
           <select
             value={category}
             onChange={(e) => setCategory(e.target.value)}
-            className="rounded-md h-8 px-3 border border-gray-300 md:text-sm text-xs bg-white"
+            className="rounded h-8 px-3 border border-gray-300 md:text-sm text-xs bg-white"
           >
             <option value="All" className="md:text-sm text-xs">
               All
@@ -56,7 +56,7 @@ const FilterBar: React.FC<Props> = ({
           <select
             value={minRating}
             onChange={(e) => setMinRating(Number(e.target.value))}
-            className="rounded-md h-8 px-3 border border-gray-300 md:text-sm text-xs bg-white"
+            className="rounded h-8 px-3 border border-gray-300 md:text-sm text-xs bg-white"
           >
             <option className="md:text-sm text-xs" value={0}>
               All
