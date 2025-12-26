@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.designinfo.in/wp-content/uploads/2023/08/Sony-WH-CH520-White-2.webp",
+    "product_name": "Pro Wireless Headphones 001",
+    "category": "Electronics",
+    "price": 147.21,
+    "rating": 3.9,
+    "is_favourite": false
+  },
+  {
+    "id": 2,
+    "image": "https://midnightlaw.com/cdn/shop/files/back2blank-nb_bd811b2a-f1a5-4f0c-80b7-6ff6ad67a3a9.jpg?v=1757338862&width=2080",
+    "product_name": "Pro Men's T-Shirt 002",
+    "category": "Clothing",
+    "price": 58.47,
+    "rating": 4.4,
+    "is_favourite": true
+  },
+  {
+    "id": 3,
+    "image": "https://artstreet.in/cdn/shop/files/7183CALOOML._SL1300_700x700.jpg?v=1755503537",
+    "product_name": "Ultra Ceramic Vase 003",
+    "category": "Home",
+    "price": 103.88,
+    "rating": 3.2,
+    "is_favourite": true
+  },
+  {
+    "id": 4,
+    "image": "https://niram.in/cdn/shop/files/Untitleddesign_286_a9c83e6b-aacd-400a-885b-64c682dde7fe.png?v=1705928909",
+    "product_name": "Heavy-duty Hydrating Serum 004",
+    "category": "Beauty",
+    "price": 52.79,
+    "rating": 4,
+    "is_favourite": false
+  },
+  {
+    "id": 5,
+    "image": "https://img.tatacliq.com/images/i16//437Wx649H/MP000000019000389_437Wx649H_202402140030291.jpeg",
+    "product_name": "Compact Yoga Mat 005",
+    "category": "Sports",
+    "price": 32.44,
+    "rating": 4.6,
+    "is_favourite": false
+  },
+  {
+    "id": 6,
+    "image": "https://m.media-amazon.com/images/I/71svVvokHzL.jpg",
+    "product_name": "Heavy-duty Bluetooth Speaker 006",
+    "category": "Electronics",
+    "price": 115.98,
+    "rating": 3.2,
+    "is_favourite": false
+  },
+  {
+    "id": 7,
+    "image": "https://www.tacvasen.com/cdn/shop/files/womens-puffer-jacket-quilted-lightweight-coat-warm-winter-with-4-pockets-382454.jpg?v=1733026379",
+    "product_name": "Lightweight Women's Jacket 007",
+    "category": "Clothing",
+    "price": 191.21,
+    "rating": 4.3,
+    "is_favourite": false
+  },
+  {
+    "id": 8,
+    "image": "https://rukminim2.flixcart.com/image/480/640/xif0q/table-lamp/n/w/b/study-lamp-rechargeable-led-touch-on-off-switch-study-lamp-original-imagdqhzbcq9qcdz.jpeg?q=90",
+    "product_name": "Smart LED Desk Lamp 008",
+    "category": "Home",
+    "price": 470.2,
+    "rating": 4.4,
+    "is_favourite": false
+  },
+  {
+    "id": 9,
+    "image": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/7738621/2024/2/13/bb4c9210-33dd-47c5-ae84-97821445ea1e1707804337364-FACES-CANADA-Ultime-Pro-Matte-Lip-Crayon-with-Cocoa-Butter---1.jpg",
+    "product_name": "Nano Lipstick Set 009",
+    "category": "Beauty",
+    "price": 87.07,
+    "rating": 3.4,
+    "is_favourite": false
+  },
+  {
+    "id": 10,
+    "image": "https://m.media-amazon.com/images/I/713zoEM3wlL.AC_SX500.jpg",
+    "product_name": "Premium Dumbbell Set 010",
+    "category": "Sports",
+    "price": 69.52,
+    "rating": 4.2,
+    "is_favourite": false
+  },
+  {
+    "id": 11,
+    "image": "https://sc04.alicdn.com/kf/Hc0661ced658349dd8a06868119f7750fh.jpg",
+    "product_name": "Wireless Smartwatch 011",
+    "category": "Electronics",
+    "price": 451.17,
+    "rating": 3.4,
+    "is_favourite": false
+  },
+  {
+    "id": 12,
+    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1694200963-S20881-21_1.jpg?crop=1xw:1.00xh;center,top&resize=980:*",
+    "product_name": "Heavy-duty Running Shoes 012",
+    "category": "Clothing",
+    "price": 81.25,
+    "rating": 3.4,
+    "is_favourite": false
+  },
+  {
+    "id": 13,
+    "image": "https://storyathome.com/cdn/shop/files/7_e0f17f55-cd8b-43a9-8d58-aa59d7de68a0.jpg?v=1744026998&width=1946",
+    "product_name": "Fresh Cotton Bedsheet Set 013",
+    "category": "Home",
+    "price": 117.51,
+    "rating": 4,
+    "is_favourite": false
+  },
+  {
+    "id": 14,
+    "image": "https://images-cdn.ubuy.co.in/67c0014d59bee344e703cfba-cetaphil-daily-facial-moisturizer-for.jpg",
+    "product_name": "Elegant Face Moisturizer 014",
+    "category": "Beauty",
+    "price": 39.56,
+    "rating": 4.6,
+    "is_favourite": false
+  },
+  {
+    "id": 15,
+    "image": "https://m.media-amazon.com/images/I/71s3bufUopL._AC_UF1000,1000_QL80_.jpg",
+    "product_name": "Advanced Running Watch 015",
+    "category": "Sports",
+    "price": 285.42,
+    "rating": 3.8,
+    "is_favourite": false
+  },
+  {
+    "id": 16,
+    "image": "https://in.mobilekishop.net/products/anker-power-bank-20000mah-portable-charger-default.jpg",
+    "product_name": "Power Bank 20000 mAh Portable Charger 016",
+    "category": "Electronics",
+    "price": 383.72,
+    "rating": 4.4,
+    "is_favourite": true
+  },
+  {
+    "id": 17,
+    "image": "https://m.media-amazon.com/images/I/71uHivtw-OL._AC_UY1100_.jpg",
+    "product_name": "Heavy-duty Denim Jeans 017",
+    "category": "Clothing",
+    "price": 127.5,
+    "rating": 4.1,
+    "is_favourite": true
+  },
+  {
+    "id": 18,
+    "image": "https://cdn1.zohoecommerce.com/product-images/Honeywell+V5.png/1266016000045111085/600x600?storefront_domain=www.meshopindia.com",
+    "product_name": "Portable Air Purifier 018",
+    "category": "Home",
+    "price": 233.55,
+    "rating": 3.3,
+    "is_favourite": false
+  },
+  {
+    "id": 19,
+    "image": "https://m.media-amazon.com/images/I/61la31UlZoL._AC_UF1000,1000_QL80_.jpg",
+    "product_name": "Fresh Hair Dryer 019",
+    "category": "Beauty",
+    "price": 12.06,
+    "rating": 4.6,
+    "is_favourite": false
+  },
+  {
+    "id": 20,
+    "image": "https://m.media-amazon.com/images/I/61Bugm3Wo+L.jpg",
+    "product_name": "Smart Fitness Tracker 020",
+    "category": "Sports",
+    "price": 34.04,
+    "rating": 4.1,
+    "is_favourite": false
+  },
+  {
+    "id": 21,
+    "image": "https://m.media-amazon.com/images/I/512XeGTDStL._AC_UF1000,1000_QL80_.jpg",
+    "product_name": "Smart Action Camera 021",
+    "category": "Electronics",
+    "price": 29.73,
+    "rating": 3.7,
+    "is_favourite": false
+  },
+  {
+    "id": 22,
+    "image": "https://m.media-amazon.com/images/I/81ZR+jA48VL._AC_UY1100_.jpg",
+    "product_name": "Deluxe Summer Dress 022",
+    "category": "Clothing",
+    "price": 130.54,
+    "rating": 4.7,
+    "is_favourite": false
+  },
+  {
+    "id": 23,
+    "image": "https://m.media-amazon.com/images/I/61k-5v-ENSL.jpg",
+    "product_name": "Classic Non-stick Pan 023",
+    "category": "Home",
+    "price": 102.55,
+    "rating": 3.1,
+    "is_favourite": false
+  },
+  {
+    "id": 24,
+    "image": "https://m.media-amazon.com/images/I/615CnCVujKL._AC_UF1000,1000_QL80_.jpg",
+    "product_name": "Smart Beauty Blender Set 024",
+    "category": "Beauty",
+    "price": 49.03,
+    "rating": 4.1,
+    "is_favourite": true
+  },
+  {
+    "id": 25,
+    "image": "https://m.media-amazon.com/images/I/61Ubtn6L5gL._AC_UF894,1000_QL80_.jpg",
+    "product_name": "Smart Cycling Helmet 025",
+    "category": "Sports",
+    "price": 125.39,
+    "rating": 3.9,
+    "is_favourite": false
+  },
+  {
+    "id": 26,
+    "image": "https://www.power-x.in/cdn/shop/files/Front.jpg?v=1737709078&width=3000",
+    "product_name": "Best Gaming Mouse 026",
+    "category": "Electronics",
+    "price": 427.25,
+    "rating": 3.4,
+    "is_favourite": true
+  },
+  {
+    "id": 27,
+    "image": "https://assets.ajio.com/medias/sys_master/root/20211123/emNa/619bf9a4f997ddf8f112b663/-473Wx593H-469060321-blue-MODEL.jpg",
+    "product_name": "Smart Hoodie 027",
+    "category": "Clothing",
+    "price": 57.55,
+    "rating": 3.1,
+    "is_favourite": false
+  },
+  {
+    "id": 28,
+    "image": "https://m.media-amazon.com/images/I/71W22DyUEfL.jpg",
+    "product_name": "Compact Memory Foam Pillow 028",
+    "category": "Home",
+    "price": 340.13,
+    "rating": 4,
+    "is_favourite": false
+  },
+  {
+    "id": 29,
+    "image": "https://images-static.nykaa.com/media/catalog/product/3/9/394e9c5MINIM00000027_a.jpg",
+    "product_name": "Lightweight Sunscreen SPF50 029",
+    "category": "Beauty",
+    "price": 104.54,
+    "rating": 4.2,
+    "is_favourite": false
+  },
+  {
+    "id": 30,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ42ApYNJ4QnXuVC5_PTkoFkIngtjSlsteLoA&s",
+    "product_name": "Eco Basketball 030",
+    "category": "Sports",
+    "price": 26.78,
+    "rating": 4.6,
+    "is_favourite": true
+  },
+  {
+    "id": 31,
+    "image": "https://m.media-amazon.com/images/I/612vYUltuTL._AC_UF1000,1000_QL80_.jpg",
+    "product_name": "Heavy-duty Mechanical Keyboard 031",
+    "category": "Electronics",
+    "price": 138.18,
+    "rating": 3.3,
+    "is_favourite": false
+  },
+  {
+    "id": 32,
+    "image": "https://assets.woodland.social/product/images/AGBT07CP232A/BLACK_BROWN/AGBT07CP232A_639_0.webp",
+    "product_name": "Comfort Leather Belt 032",
+    "category": "Clothing",
+    "price": 192.5,
+    "rating": 3.7,
+    "is_favourite": false
+  },
+  {
+    "id": 33,
+    "image": "https://metalkart.in/cdn/shop/products/eternal-vine-premium-wall-art-52-x-28-inches-132710.jpg?v=1663831977",
+    "product_name": "Premium Wall Art 033",
+    "category": "Home",
+    "price": 236.5,
+    "rating": 4.4,
+    "is_favourite": false
+  },
+  {
+    "id": 34,
+    "image": "https://m.media-amazon.com/images/I/61TcWx2J8UL._AC_UF350,350_QL80_.jpg",
+    "product_name": "Heavy-duty Aromatherapy Candle 034",
+    "category": "Beauty",
+    "price": 34.38,
+    "rating": 3.1,
+    "is_favourite": false
+  },
+  {
+    "id": 35,
+    "image": "https://d2f594itnhlick.cloudfront.net/media/catalog/product/r/w/rw3029_5_1.jpg",
+    "product_name": "Ultra Tennis Racket 035",
+    "category": "Sports",
+    "price": 26.8,
+    "rating": 3.4,
+    "is_favourite": false
+  },
+  {
+    "id": 36,
+    "image": "https://m.media-amazon.com/images/I/61R8NLkg14S._AC_UF1000,1000_QL80_.jpg",
+    "product_name": "Heavy-duty Smart Home Hub 036",
+    "category": "Electronics",
+    "price": 160.68,
+    "rating": 3.5,
+    "is_favourite": true
+  },
+  {
+    "id": 37,
+    "image": "https://www.organic-socks.com/cdn/shop/products/Royal_Box_800x.jpg?v=1567503093",
+    "product_name": "Elegant Socks Pack 037",
+    "category": "Clothing",
+    "price": 52.25,
+    "rating": 4.5,
+    "is_favourite": false
+  },
+  {
+    "id": 38,
+    "image": "https://m.media-amazon.com/images/I/813qyfr-8LS._AC_UF894,1000_QL80_.jpg",
+    "product_name": "Premium Area Rug 038",
+    "category": "Home",
+    "price": 220.93,
+    "rating": 3.8,
+    "is_favourite": false
+  },
+  {
+    "id": 39,
+    "image": "https://di2ponv0v5otw.cloudfront.net/posts/2025/08/22/68a893be95538344a805d0f1/m_68a893d2ed788df1ea2b8c3f.jpg",
+    "product_name": "Deluxe Facial Cleanser 039",
+    "category": "Beauty",
+    "price": 83.08,
+    "rating": 4.3,
+    "is_favourite": false
+  },
+  {
+    "id": 40,
+    "image": "https://m.media-amazon.com/images/I/81pd2icb1SL.jpg",
+    "product_name": "Eco Resistance Bands 040",
+    "category": "Sports",
+    "price": 192.49,
+    "rating": 4.5,
+    "is_favourite": false
+  },
+  {
+    "id": 41,
+    "image": "https://images.philips.com/is/image/philipsconsumer/ab7f74be6be04149a239b020005cce59?$png$&wid=726&hei=726",
+    "product_name": "Elegant 4K Monitor 041",
+    "category": "Electronics",
+    "price": 136.67,
+    "rating": 4.4,
+    "is_favourite": false
+  },
+  {
+    "id": 42,
+    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/5c27e0fc3864496a897c466c1fd8ab5d_9366/adidas_Pro_Block_Shorts_Black_IX1850_21_model.jpg",
+    "product_name": "Pro Sports Shorts 042",
+    "category": "Clothing",
+    "price": 114.25,
+    "rating": 3.7,
+    "is_favourite": false
+  },
+  {
+    "id": 43,
+    "image": "https://www.tanotis.com/cdn/shop/files/1711990043_IMG_2223014_1024x.jpg?v=1737806350",
+    "product_name": "Premium Smart Thermostat 043",
+    "category": "Home",
+    "price": 35.09,
+    "rating": 3.5,
+    "is_favourite": true
+  },
+  {
+    "id": 44,
+    "image": "https://m.media-amazon.com/images/I/61R7fXnmrcL._AC_UF1000,1000_QL80_.jpg",
+    "product_name": "Fresh Nail Polish Set 044",
+    "category": "Beauty",
+    "price": 8.05,
+    "rating": 3,
+    "is_favourite": true
+  },
+  {
+    "id": 45,
+    "image": "https://www.naturecan.life/cdn/shop/products/Protein-Shaker-Product-Shot-Main-2_new.png?v=1667315734",
+    "product_name": "Smart Protein Shaker 045",
+    "category": "Sports",
+    "price": 159.64,
+    "rating": 4,
+    "is_favourite": false
+  },
+  {
+    "id": 46,
+    "image": "https://shopatsc.com/cdn/shop/files/CH520_A__2500x2500_3981f43e-bf07-4246-98fd-42a92f3c33e8.jpg?v=1745490430",
+    "product_name": "Classic Wireless Headphones 046",
+    "category": "Electronics",
+    "price": 324.15,
+    "rating": 4,
+    "is_favourite": true
+  },
+  {
+    "id": 47,
+    "image": "https://www.mydesignation.com/cdn/shop/files/dune-989673.jpg?v=1743231859&width=1500",
+    "product_name": "Deluxe Men's T-Shirt 047",
+    "category": "Clothing",
+    "price": 26.41,
+    "rating": 4.8,
+    "is_favourite": false
+  },
+  {
+    "id": 48,
+    "image": "https://market99.com/cdn/shop/files/WW10005158_1.jpg?v=1751007648",
+    "product_name": "Elegant Ceramic Vase 048",
+    "category": "Home",
+    "price": 249.34,
+    "rating": 4.2,
+    "is_favourite": true
+  },
+  {
+    "id": 49,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/wh-3-6-moisturizers-65ea0ae439ba8.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=1200:*",
+    "product_name": "Hydrating Serum 049",
+    "category": "Beauty",
+    "price": 21.38,
+    "rating": 4.9,
+    "is_favourite": false
+  },
+  {
+    "id": 50,
+    "image": "https://www.otgonline.in/cdn/shop/files/IMG_7914_280x315_2x_1_560x.webp?v=1705045113",
+    "product_name": "Smart Yoga Mat 050",
+    "category": "Sports",
+    "price": 194.35,
+    "rating": 3.5,
+    "is_favourite": false
+  }
+]
